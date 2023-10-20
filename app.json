@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "login",
+    "slug": "login",
+    "extra": {
+      "eas": {
+        "projectId": "441cd742-180a-4553-ba1e-a2887ae4113b"
+      }
+    },
+    "android": {
+      "package": "com.achref_nouira9.login"
+    }
+  }
+}
